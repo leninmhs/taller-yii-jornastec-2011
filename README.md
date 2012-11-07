@@ -7,5 +7,4 @@ En el marco de las V Jornadas Nacionales de Soberanía Tecnológica (Jornastec )
 Al final de la jornada se acordó distribuir los recursos disponibles en:
 https://leninmhs.wordpress.com/2011/10/18/v-jornastec-taller-yii-framework/
 
-leninmhs@gmail.com
 @leninmhs
